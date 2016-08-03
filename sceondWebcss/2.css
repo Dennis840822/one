@@ -1,0 +1,28 @@
+.main{
+	width: 500px;
+	margin: 0 auto;
+	margin-top: 150px;
+	border-radius: 150px;
+	background-color: yellow;
+}
+h1{
+	margin:0 auto;
+	text-align: center;
+}
+h2{
+	margin:0 auto;
+	text-align: center;
+}
+.main input{
+	display:block;
+	padding-top: 10px;
+	margin: 0 auto;
+}
+hr{
+	height:1px;
+	border:none;
+}
+.main button{
+	padding-top: 10px;
+	margin-left: 225px;
+}

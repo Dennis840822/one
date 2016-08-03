@@ -1,0 +1,82 @@
+
+		.nav{
+			position: fixed;
+			top: 50%;
+			right: 0px;
+		}
+		.nav ul li{
+			width: 10px;
+			height: 10px;
+			margin: 10px;
+			background-color: white;
+			border-radius: 5px;
+			box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5) inset,-1px -1px -1px rgba(0, 0, 0, 0.5) inset;
+			list-style-type: none ;
+		}
+		.menutop ul li{
+			width: 10px;
+			height: 10px;
+			margin: 10px;
+			background-color: white;
+			border-radius: 5px;
+			box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5) inset,-1px -1px -1px rgba(0, 0, 0, 0.5) inset;
+			list-style-type: none ;
+		}
+		*{
+			padding: 0;
+			margin: 0;
+		}
+		.one{
+			background-image:url('../img/1.jpg');
+			background-size:cover;
+			height: 100vh;
+		}
+		.two{
+			background-image:url('../img/2.jpg');
+			background-size:cover;
+			height: 100vh;
+		}
+		.three{
+			background-image:url('../img/3.jpg');
+			background-size:cover;
+			height: 100vh;
+		}
+		.four{
+			background-image:url('../img/4.jpg');
+			background-size:cover;
+			height: 100vh;
+		}
+		.gotop{
+			position: fixed;
+			bottom: 2vh;
+			cursor: pointer;
+		}
+		.menutop{
+			width: 1000px;
+			position: absolute;
+		}
+		.menutop ul li{
+			text-align: center;
+			padding-left: 100px;
+			display: inline;
+			background-color: rgba(0, 0, 0, 0.0);
+			font-size: 50px;
+		}
+		.menutop ul li a{
+			text-decoration: none;
+		}
+		.menutwo{
+			position:absolute;
+			margin-top:50px;
+			margin-left: 850px;
+			display: none;
+		}
+		.menutwo ul li{
+			margin-top: 20px;
+			list-style-type: none ;
+			font-size: 30px;
+		}
+		.menutwo ul li a{
+			text-decoration: none;
+			color:black;
+		}

@@ -1,0 +1,13 @@
+
+.one{
+	text-align: center;
+	margin: 0 auto;
+	width: 500px;
+	height: 200px;
+	margin-top: 125px;
+	padding-top:75px;
+	color: white;
+	background-image: url(../img/photo.jpg);
+	border-radius: 500px;
+	font-size: 50px;
+}
